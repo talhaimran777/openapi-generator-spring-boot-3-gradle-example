@@ -1,0 +1,5 @@
+{
+	"interfaceOnly": "true",
+	"useSpringBoot3": "true",
+	"skipDefaultInterface": "true"
+}
